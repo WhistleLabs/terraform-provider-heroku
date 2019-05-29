@@ -7,7 +7,7 @@ require (
 	github.com/hashicorp/go-multierror v1.0.0
 	github.com/hashicorp/go-uuid v1.0.1
 	github.com/hashicorp/hcl v0.0.0-20180404174102-ef8a98b0bbce // indirect
-	github.com/hashicorp/terraform v0.12.0-beta2
+	github.com/hashicorp/terraform v0.12.0
 	github.com/heroku/heroku-go v0.0.0-20190103224148-ad17585a922f
 	github.com/mitchellh/go-homedir v1.0.0
 	github.com/pborman/uuid v0.0.0-20170612153648-e790cca94e6c // indirect
